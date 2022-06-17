@@ -16,6 +16,7 @@
 		9FC5938A285B7DEB000CC785 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FC59388285B7DEB000CC785 /* LaunchScreen.storyboard */; };
 		9FC59395285B7DED000CC785 /* BallotBoxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC59394285B7DED000CC785 /* BallotBoxTests.swift */; };
 		9FC593A0285B7DED000CC785 /* BallotBoxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC5939F285B7DED000CC785 /* BallotBoxUITests.swift */; };
+		9FC593C4285C9204000CC785 /* viewTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC593C3285C9204000CC785 /* viewTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		9FC5939B285B7DED000CC785 /* BallotBoxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BallotBoxUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FC5939F285B7DED000CC785 /* BallotBoxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BallotBoxUITests.swift; sourceTree = "<group>"; };
 		9FC593A1285B7DED000CC785 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FC593C3285C9204000CC785 /* viewTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				9FC5937C285B7DB1000CC785 /* SceneDelegate.swift */,
 				9FC5937E285B7DB1000CC785 /* ViewController.swift */,
 				9FC59380285B7DB1000CC785 /* Main.storyboard */,
+				9FC593C3285C9204000CC785 /* viewTwo.swift */,
 				9FC59386285B7DEB000CC785 /* Assets.xcassets */,
 				9FC59388285B7DEB000CC785 /* LaunchScreen.storyboard */,
 				9FC5938B285B7DEC000CC785 /* Info.plist */,
@@ -263,6 +266,7 @@
 			files = (
 				9FC5937F285B7DB1000CC785 /* ViewController.swift in Sources */,
 				9FC59385285B7DB2000CC785 /* BallotBox.xcdatamodeld in Sources */,
+				9FC593C4285C9204000CC785 /* viewTwo.swift in Sources */,
 				9FC5937B285B7DB1000CC785 /* AppDelegate.swift in Sources */,
 				9FC5937D285B7DB1000CC785 /* SceneDelegate.swift in Sources */,
 			);
